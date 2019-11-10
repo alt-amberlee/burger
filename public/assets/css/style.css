@@ -1,0 +1,18 @@
+body {
+    background-color: lightpink;
+}
+
+.jumbotron {
+    color: purple;
+    padding-top: 1%;
+    background-color: transparent !important;
+}
+
+img {
+    margin-top: 5%;
+    width: 15%;
+}
+
+.submitFont {
+    color: lightseagreen;
+}
